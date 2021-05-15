@@ -4,6 +4,8 @@ const bot = new Discord.Client({
     disableEveryone: true
 });
 const fs = require("fs")
+//Credits Team Rainbow studio 
+//https://discord.gg/yPN49wdqMc
 
 bot.games = new Discord.Collection(); //stores all games
 
